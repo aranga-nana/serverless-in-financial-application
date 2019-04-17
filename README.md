@@ -6,7 +6,7 @@ Looking into , how we can utilise the serverless apis(AWS Lambda with API Gatewa
 - Clinet Request (Order /applicaitons)
 - Looking at operation requires proper transaction bounderies (spring boot app  )
 - File based operation ( AWS sftp ,S3, ECS Task based on spring boot app running ECS Fargate ? / spot instance). most of the    transactional application stil requir interface with some sort of file to get some information. 
-- Report generation (S3 ECS Task based on spring boot app)
+- Report generation (S3 ECS Task based on spring boot app ? or we have lightweight solution)
 
 - cost saving coming from serveless api and using tasks (no need to run servers 24s ). both scale infinitly . 
 - set up will always run in multi region   diverting  client facing traffic  10/80 . 
