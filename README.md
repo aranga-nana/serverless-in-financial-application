@@ -1,6 +1,6 @@
 ### Serveless -  Why can't we have best of bothe world (serverless and spring boot based api)
 
-Looking into , how we can utilise the serverless apis(AWS Lambda with API Gateway)   in conjunstion with docker based application to manage transaction driven application to reduce the operating cost.
+Looking into , how we can utilise the serverless apis(AWS Lambda with API Gateway)   in conjunstion with docker based application to manage transaction driven application to reduce the operating cost. Idea is to operate production grade application under 
 
 - Looking at dashboard /client portal ( serveless api)
 - Clinet Request (Order /applicaitons)
